@@ -1,0 +1,6 @@
+{
+  "name": "ElevateCV AI",
+  "description": "Understand your skills, improve your resume, and apply smarter. AI-powered resume and job match analysis for students and entry-level job seekers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
